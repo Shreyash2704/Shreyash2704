@@ -1,5 +1,4 @@
-## Hi there 👋
-# Shreyash Matele
+# Shreyash Matele - Full Stack Developer | ReactJS | Python
 
 👋 **Hi, I'm Shreyash Matele!**  
 I'm a Software Engineer specializing in full-stack development with a focus on building efficient and scalable applications.
@@ -9,7 +8,7 @@ I'm a Software Engineer specializing in full-stack development with a focus on b
 ### 🚀 About Me
 
 - 🏠 **Location**: Mumbai, Maharashtra
-- 💼 **Current Role**: Full Stack Developer specializing in **ReactJS** and **Python (Flask)**
+- 💼 **Current Role**: Software Engineer at Depronto Infotech based in Mumbai, Maharashtra
 - 📅 **Experience**: 1+ year of professional experience working on frontend and backend development, performance optimization, and building DeFi applications
 - 🎓 **Education**: Bachelor's in Computer Engineering
 
@@ -19,8 +18,8 @@ I'm a Software Engineer specializing in full-stack development with a focus on b
 
 #### Frontend:
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: ReactJS, Redux, React Flow
-- **Other Skills**: Responsive Design, WebTV Development, Performance Optimization
+- **Frameworks**: ReactJS, Mobx, Jquery, Flask
+- **Other Skills**: Responsive Design, Performance Optimization
 
 #### Backend:
 - **Languages**: Python
