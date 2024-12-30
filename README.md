@@ -52,7 +52,7 @@ I'm a Software Engineer specializing in full-stack development with a focus on b
 ---
 
 ### 📫 Let's Connect
-- **Email**: shreyash@example.com
+- **Email**: shreyashmatele274@gmail.com
 - **LinkedIn**: [linkedin.com/in/shreyash-matele](https://www.linkedin.com/in/shreyash-matele)
 - **GitHub**: [github.com/shreyashmatele](https://github.com/shreyashmatele)
 
