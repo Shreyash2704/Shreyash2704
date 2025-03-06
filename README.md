@@ -9,7 +9,7 @@ I'm a Software Engineer specializing in full-stack development with a focus on b
 
 - 🏠 **Location**: Mumbai, Maharashtra
 - 💼 **Current Role**: Software Engineer at Depronto Infotech based in Mumbai, Maharashtra
-- 📅 **Experience**: 1+ year of professional experience working on frontend and backend development, performance optimization, and building DeFi applications
+- 📅 **Experience**: 2+ year of professional experience working on frontend and backend development, performance optimization, and building DeFi applications
 - 🎓 **Education**: Bachelor's in Computer Engineering
 
 ---
