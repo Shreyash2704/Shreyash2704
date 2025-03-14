@@ -59,7 +59,7 @@ Software Engineer specializing in ReactJS and Python (Flask, FastAPI) with exper
 
 ## 🚀 Featured Projects
 
-### [GasYard.Fi - DeFi Bridge Application](https://github.com/YourUsername/GasYard)
+### [GasYard.Fi - DeFi Bridge Application] (https://github.com/Shreyash2704/Gasyard-FE-V2)
 Developed a decentralized finance application enabling users to bridge crypto assets across multiple blockchain networks. Built with ReactJS, wagmi, walletconnect, and chakra-ui for a seamless Web3 experience.
 
 ### HELO - LLM-based Alert Management System
