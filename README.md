@@ -59,17 +59,20 @@ Software Engineer specializing in ReactJS and Python (Flask, FastAPI) with exper
 
 ## 🚀 Featured Projects
 
-### [Doccure - Online Doctor Consultation](https://github.com/Shreyash2704/Doccure)
-Online doctor consultation and appointment system developed using MERN stack (MongoDB, Express, React, Node.js) with real-time communication features via Socket.io.
-
-### [Health Care Analysis](https://github.com/Shreyash2704/Health-Care-Analysis)
-ML-powered application to predict diseases like Malaria, Dengue, Cardiac arrest, Diabetes, and COVID-19 based on medical reports and X-ray images, with accuracy rates of ~81%.
+### [GasYard.Fi - DeFi Bridge Application](https://github.com/YourUsername/GasYard)
+Developed a decentralized finance application enabling users to bridge crypto assets across multiple blockchain networks. Built with ReactJS, wagmi, walletconnect, and chakra-ui for a seamless Web3 experience.
 
 ### HELO - LLM-based Alert Management System
 Designed and implemented an LLM-based system to monitor organizational communication channels for suspicious content with real-time alerts and a robust backend pipeline.
 
 ### RAISE A HOOD - Vehicle Diagnostic System
 AI-based MVP application for vehicle diagnostics, featuring web scrapers, message broker backend, and knowledge-based model stored in Neo4j Graph Database.
+
+### [Doccure - Online Doctor Consultation](https://github.com/Shreyash2704/Doccure)
+Online doctor consultation and appointment system developed using MERN stack (MongoDB, Express, React, Node.js) with real-time communication features via Socket.io.
+
+### [Health Care Analysis](https://github.com/Shreyash2704/Health-Care-Analysis)
+ML-powered application to predict diseases like Malaria, Dengue, Cardiac arrest, Diabetes, and COVID-19 based on medical reports and X-ray images, with accuracy rates of ~81%.
 
 ## 📊 GitHub Stats
 
